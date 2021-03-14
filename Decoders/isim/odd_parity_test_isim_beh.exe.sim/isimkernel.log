@@ -1,0 +1,29 @@
+Command line:
+   odd_parity_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  62317
+
+Wed Nov 04 14:04:10 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5154.34 Meg
+
+ Total Signals          : 21
+ Total Nets             : 34
+ Total Signal Drivers   : 10
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 117
+Total Line Count : 37
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4997.06 Meg
+
+Wed Nov 04 16:59:29 2020
+

@@ -1,0 +1,11 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test_isim_beh.exe" -prj "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test_beh.prj" "work.full_adder_test" "work.glbl" 
+ISim P.15xf (signature 0xc3576ebc)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/mux.v" into library work
+Analyzing Verilog file "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder.v" into library work
+Analyzing Verilog file "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test.v" into library work
+ERROR:HDLCompiler:806 - "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test.v" Line 82: Syntax error near "end".
+ERROR:HDLCompiler:598 - "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test.v" Line 25: Module <full_adder_test> ignored due to previous errors.
+Verilog file D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/mux/full_adder_test.v ignored due to errors

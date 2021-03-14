@@ -1,0 +1,2 @@
+vhdtdtfi -lib work D:/DD-Xilinx/BCD_Adder/Add4Bit.v -lang verilog -prj BCD_Adder -o Add4Bit.spl -module Add4Bit -template D:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Add4Bit.spl D:/DD-Xilinx/BCD_Adder/Add4Bit.sym 

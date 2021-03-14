@@ -1,0 +1,10 @@
+[Inputs]
+A
+B
+[Outputs]
+S
+C
+[BiDir]
+[ATTRIBUTES]
+VeriModel half_adder
+

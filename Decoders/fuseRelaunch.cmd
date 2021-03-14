@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/decoder/odd_parity_test_isim_beh.exe" -prj "D:/DD-Xilinx/2018B2A30764-Lab8_P1-GrB/decoder/odd_parity_test_beh.prj" "work.odd_parity_test" "work.glbl" 

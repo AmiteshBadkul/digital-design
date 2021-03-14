@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/DD-Xilinx/BCD_Adder/BCDAdder_isim_beh.exe" -prj "D:/DD-Xilinx/BCD_Adder/BCDAdder_beh.prj" "work.BCDAdder" "work.glbl" 

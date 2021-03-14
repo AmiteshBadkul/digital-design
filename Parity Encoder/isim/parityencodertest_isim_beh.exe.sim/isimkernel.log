@@ -1,0 +1,29 @@
+Command line:
+   parityencodertest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51959
+
+Wed Sep 23 14:06:50 2020
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5154.37 Meg
+
+ Total Signals          : 21
+ Total Nets             : 20
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 104
+Total Line Count : 35
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 4682.51 Meg
+
+Wed Sep 23 14:54:52 2020
+

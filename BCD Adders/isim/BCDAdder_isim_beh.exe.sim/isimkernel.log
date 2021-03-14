@@ -1,0 +1,29 @@
+Command line:
+   BCDAdder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  51363
+
+Wed Oct 07 14:37:00 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5153.74 Meg
+
+ Total Signals          : 21
+ Total Nets             : 36
+ Total Signal Drivers   : 11
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 116
+Total Line Count : 19
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4681.88 Meg
+
+Wed Oct 07 15:04:18 2020
+

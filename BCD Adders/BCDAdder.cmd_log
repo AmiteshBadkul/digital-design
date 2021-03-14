@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/DD-Xilinx/BCD_Adder/BCDAdder.xst" -ofn "D:/DD-Xilinx/BCD_Adder/BCDAdder.syr" 

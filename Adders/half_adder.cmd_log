@@ -1,0 +1,2 @@
+vhdtdtfi -lib work D:/DD-Xilinx/Experiment2/half_adder.v -lang verilog -prj Experiment2 -o half_adder.spl -module half_adder -template D:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 half_adder.spl D:/DD-Xilinx/Experiment2/half_adder.sym 

@@ -1,0 +1,17 @@
+Running: D:\Xilinx\14.1\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/DD-Xilinx/BCD_Adder/BCDAdder_isim_beh.exe -prj D:/DD-Xilinx/BCD_Adder/BCDAdder_beh.prj work.BCDAdder work.glbl 
+ISim P.15xf (signature 0xc3576ebc)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/DD-Xilinx/BCD_Adder/BCDAdder.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module BCDAdder
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 2 Verilog Units
+Built simulation executable D:/DD-Xilinx/BCD_Adder/BCDAdder_isim_beh.exe
+Fuse Memory Usage: 27436 KB
+Fuse CPU Usage: 733 ms

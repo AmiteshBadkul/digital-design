@@ -1,0 +1,10 @@
+[Inputs]
+=A[3:0]=
+=B[3:0]=
+[Outputs]
+Cout
+=Sum[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Add4Bit
+

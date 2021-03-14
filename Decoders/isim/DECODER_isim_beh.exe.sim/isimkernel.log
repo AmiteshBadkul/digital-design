@@ -1,0 +1,29 @@
+Command line:
+   DECODER_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55214
+
+Sun Nov 01 16:27:44 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5154.73 Meg
+
+ Total Signals          : 16
+ Total Nets             : 32
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 112
+Total Line Count : 16
+
+ Total Simulation Time: 0.015625 sec
+
+ Current Memory Usage: 4997.44 Meg
+
+Sun Nov 01 16:28:46 2020
+
